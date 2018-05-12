@@ -1,0 +1,58 @@
+_repo: Victorian-Short-Stories--Stories-of-Courtship_15381
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Zangwill, Israel
+    alias: Zangwill, I. (Israel)
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '1987'
+    url: http://www.gutenberg.org/2009/agents/1987
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
+  - agent_name: Egerton, George
+    alias: Bright, Mary Chavelita
+    birthdate: 1859
+    deathdate: 1945
+    gutenberg_agent_id: '6150'
+    url: http://www.gutenberg.org/2009/agents/6150
+    wikipedia: http://en.wikipedia.org/wiki/George_Egerton
+  - agent_name: Crackanthorpe, Hubert
+    birthdate: 1870
+    deathdate: 1896
+    gutenberg_agent_id: '6149'
+    url: http://www.gutenberg.org/2009/agents/6149
+  - agent_name: Gilbert, W. S. (William Schwenck)
+    alias: Gilbert, William Schwenck, Sir
+    birthdate: 1836
+    deathdate: 1911
+    gutenberg_agent_id: '395'
+    url: http://www.gutenberg.org/2009/agents/395
+  - agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2005-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+tableOfContents: Angela, an Inverted Love Story, by William Schwenk Gilbert -- The
+  Parson's Daughter of Oxney Colne, by Anthony Trollope -- Anthony Garstin's Courtship,
+  by Hubert Crackanthorpe -- A Little Grey Glove, by George Egerton Bright -- The
+  Woman Beater, by Israel Zangwill.
+title: 'Victorian Short Stories: Stories of Courtship'
+url: http://www.gutenberg.org/ebooks/15381
